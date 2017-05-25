@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Moraki</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_tipo">Tipo</string>
+    <string name="label_cidade">Cidade</string>
+    <string name="label_bairro">Bairro</string>
+    <string name="label_dorms">Dormitórios</string>
+    <string name="label_vagas">Vagas</string>
+
+    <string-array name="cidades">
+        <item>Campinas</item>
+        <item>Jaguariuna</item>
+        <item>Hortolandia</item>
+        <item>Holambra</item>
+        <item>Sumaré</item>
+    </string-array>
+
+    <string-array name="tipos">
+        <item>Casa</item>
+        <item>Terreno</item>
+        <item>Apartamento</item>
+    </string-array>
+</resources>
